@@ -1,5 +1,4 @@
 # Palindrome-C
-It handles palindrome strings through different memory notations: pointer notation and vector notation.
 
 The program handles palindrome strings through different memory notations: the pointer notation and the vector notation.
 Defining function prototypes: Function prototypes are declared at the beginning, allowing the compiler to understand how to use functions before they are defined.
